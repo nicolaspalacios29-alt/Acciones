@@ -1,6 +1,6 @@
 streamlit
-fastapi
 uvicorn
+fastapi
 httpx
 python-dotenv
 pandas
