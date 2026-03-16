@@ -1,4 +1,8 @@
+streamlit
 fastapi
 uvicorn
 httpx
 python-dotenv
+pandas
+numpy
+requests
